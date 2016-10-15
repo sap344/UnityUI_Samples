@@ -47,7 +47,6 @@
   <ItemGroup>
      <Compile Include="Assets\Book-Page Curl\scripts\AutoFlip.cs" />
      <Compile Include="Assets\Book-Page Curl\scripts\Book.cs" />
-     <Compile Include="Assets\LoadInventory.cs" />
      <Compile Include="Assets\RainMaker\Demo\DemoScript.cs" />
      <Compile Include="Assets\RainMaker\Demo\DemoScript2D.cs" />
      <Compile Include="Assets\RainMaker\Prefab\BaseRainScript.cs" />
@@ -55,6 +54,7 @@
      <Compile Include="Assets\RainMaker\Prefab\RainScript.cs" />
      <Compile Include="Assets\RainMaker\Prefab\RainScript2D.cs" />
      <Compile Include="Assets\Scripts\LoadGame.cs" />
+     <Compile Include="Assets\Scripts\LoadInventory.cs" />
      <Compile Include="Assets\Scripts\UpdateText.cs" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\RainMaker\Prefab\RainShader.shader" />
