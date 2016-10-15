@@ -19,6 +19,14 @@ public class MainMenuGUI : MonoBehaviour {
 	}
 
 	/// <summary>
+	/// Update this instance.
+	/// </summary>
+	void Update()
+	{
+		// update keycodes from the ControlScheme here - to perform the methods stated below
+	}
+
+	/// <summary>
 	/// Raises the settings button click event.
 	/// </summary>
 	public void OnSettingsClick()
