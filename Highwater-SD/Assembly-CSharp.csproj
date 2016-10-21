@@ -45,8 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\GUI\GameGUI.cs" />
-     <Compile Include="Assets\Scripts\GUI\MainMenuGUI.cs" />
+     <Compile Include="Assets\Scripts\GUI\GameViewBehavior.cs" />
+     <Compile Include="Assets\Scripts\GUI\MainMenuBehavior.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
